@@ -7,6 +7,7 @@ This project is an exercise of using Python's magic dunder methods to create a s
 - Reciprocal and division
 - Equality
 
+## Example
 ```
 from complex_number import Complex
 a = Complex(1, 2)
